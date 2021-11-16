@@ -1,0 +1,21 @@
+@import "ui-flexbox-styles";
+
+.v-select {
+  min-width: 180px;
+
+}
+
+.mx-datepicker{
+  width: 100% !important;;
+  margin-left: 10px;
+}
+
+.chart-content{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
+
+*{
+  font-family: GoogleSans,sans-serif;
+}

@@ -1,8 +1,22 @@
 # hotel_front_end
 
+## Tech-stack
+```
+- VueJS 2
+- TypeScript
+- webpack
+- yarn or npm
+- BEM
+- SCSS with flex
+```
+
 ## Project setup
 ```
 npm install
+```
+
+```
+edit .env file with backend server api
 ```
 
 ### Compiles and hot-reloads for development
@@ -19,11 +33,3 @@ npm run build
 ```
 npm run test:unit
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
